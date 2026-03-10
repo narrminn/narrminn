@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Narmin</h1>
-<h3 align="center">IOS Developer | Swift Enthusiast | Learning & Building</h3>
+<h3 align="center">IOS Developer | Swift | Learning & Building</h3>
 
 IOS Developer with a focus on Swift development and have a knowledge in backend development,
 committed to building innovative and seamless mobile applications.
